@@ -138,10 +138,21 @@ header {
     background: rgba(0,0,0,.1);
 }
 
-@media (max-width:1200px){
+@media screen and (max-width:1200px){
     html{
-        font-size:60%;
+        font-size:80%;
     }
-
+    header {
+        margin-left: 20rem;
+    }
     
+}
+
+@media screen and (max-width:680px){
+    html{
+        font-size: 70%;
+    }
+    header{
+        margin-left: 15rem;
+    }
 }
