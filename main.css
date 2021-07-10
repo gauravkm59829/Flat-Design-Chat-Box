@@ -137,11 +137,12 @@ header {
     background: rgba(0,0,0,.1);
 }
 
-@media screen and (max-width:1200px){
+@media screen and (max-width:998px){
     html{
         font-size:80%;
     }
-    
+    header {
+        width: 60%
 }
 
 @media screen and (max-width:480px){
