@@ -19,7 +19,7 @@ header {
     text-align: center;
     background-color:teal ;
     width:30%;
-    margin-left: 29.8rem;
+    margin-left: 2rem auto;
     
 
 
@@ -142,9 +142,6 @@ header {
     html{
         font-size:80%;
     }
-    header {
-        margin-left: 20rem;
-    }
     
 }
 
@@ -152,9 +149,5 @@ header {
     html{
         font-size: 70%;
     }
-    header{
-        margin-top: 4rem;
-        margin-bottom: 3rem;
-        margin-left: 12rem;
-    }
+  
 }
